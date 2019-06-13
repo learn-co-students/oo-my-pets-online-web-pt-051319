@@ -1,3 +1,3 @@
 class Dog
-  # code goes here
+  dog = has_one
 end

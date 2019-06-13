@@ -1,3 +1,3 @@
 class Owner
-  # code goes here
+ Owner = #has_many_animals
 end

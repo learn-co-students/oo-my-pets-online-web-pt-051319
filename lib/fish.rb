@@ -1,3 +1,3 @@
 class Fish
-  # code goes here
+  #has_and_belongs_to_many
 end
